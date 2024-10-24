@@ -1,0 +1,3 @@
+com\chuidiang\proyectoBaseMaven\App.class
+servicios\ConexionBaseDatosPostgresqlInterfaz.class
+servicios\ConexionBaseDatosPostgresqlImplementacion.class
